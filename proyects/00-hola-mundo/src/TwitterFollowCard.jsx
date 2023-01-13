@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { userState }from 'react'
+
 
 export function TwitterFollowCard ({ userName = 'unknown' , children, initialIsFollowing}) {
 //                                    valor por defecto
